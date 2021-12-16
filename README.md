@@ -3,7 +3,7 @@
 **__이 프로그램은 제가 만든게 아닙니다. 원본은 여기서 확인하세요: [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR)__**
 
 
-## 마리오 메이커 2 OCR 다국어 패치, MarioMaker2OCR Multilingual Patch
+## 마리오 메이커 2 OCR 다국어 패치, MarioMaker2OCR Multi-Language Patch
 
 본 REPOSITORY 은(는) [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) 프로그램을 다국어가 지원되도록 **제가 임의로 수정한 것**입니다.   
 **재차 강조하지만, 이 프로그램은 __제가 직접 만든 것이 아닙니다__. 원본은 [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) 입니다.**
