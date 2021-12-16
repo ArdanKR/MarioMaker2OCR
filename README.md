@@ -5,12 +5,15 @@
 
 ## 마리오 메이커 2 OCR 다국어 패치, MarioMaker2OCR Multi-Language Patch
 
-본 REPOSITORY 은(는) [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) 프로그램을 다국어가 지원되도록 **제가 임의로 수정한 것**입니다.   
+본 REPOSITORY 은(는) [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) 프로그램을 다국어가 지원되도록,   
+그리고 표기되는 맵의 정보(코스 제목, 제작자 이름)가 더 정확해 지도록 **제가 임의로 수정한 것**입니다.  
+
+
 **재차 강조하지만, 이 프로그램은 __제가 직접 만든 것이 아닙니다__. 원본은 [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) 입니다.**
 
 사용 방법은 기존의 MarioMaker2OCR 과 크게 다르지 않습니다.
 
-> **수정 내용:**   
+> **기존 프로그램에서 수정한 내용:**   
 > 
 > 1. 기존의 판독기능에서 아이디만 추출해 MM2API 를 이용해 검색 후 대체합니다. (유효하지 않을 경우 기존의 판독 결과 사용)   
 > ●  **MarioMaker2PublicAPI by [TheGreatRambler](https://github.com/thegreatrambler).**
