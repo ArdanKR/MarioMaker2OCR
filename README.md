@@ -19,7 +19,7 @@
 > ●  **MarioMaker2PublicAPI by [TheGreatRambler](https://github.com/thegreatrambler).**
 
 ## 설치 및 사용 방법
-1. 프로그램 파일을 다운로드 해주세요. [다운로드 URL](https://github.com/ArdanKR/MarioMaker2OCR/releases/download/1.0.72/MarioMaker2OCR.zip)
+1. 프로그램 파일을 다운로드 해주세요. [다운로드 URL](https://github.com/ArdanKR/MarioMaker2OCR/releases/download/Latest-Multi-Language/MarioMaker2OCR.zip)
 2. .ZIP 파일의 압축을 해제하고, `Mario Maker 2 OCR.exe` 를 실행해 주세요.
 3. [영상 설명](https://youtu.be/HsQZIANz1Yc) 을 따라해 주세요. (OBS 기준, Video by dram55)
 
